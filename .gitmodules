@@ -1,0 +1,3 @@
+[submodule "impala-tpcds-kit"]
+	path = impala-tpcds-kit
+	url = https://github.com/cloudera/impala-tpcds-kit.git

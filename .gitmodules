@@ -1,3 +1,6 @@
 [submodule "impala-tpcds-kit"]
 	path = impala-tpcds-kit
 	url = https://github.com/cloudera/impala-tpcds-kit.git
+[submodule "hive-testbench"]
+	path = hive-testbench
+	url = https://github.com/hortonworks/hive-testbench.git

@@ -4,3 +4,6 @@
 [submodule "hive-testbench"]
 	path = hive-testbench
 	url = https://github.com/hortonworks/hive-testbench.git
+[submodule "Spark_Delta_Lake"]
+	path = Spark_Delta_Lake
+	url = https://github.com/quydx/Spark_Delta_Lake.git
